@@ -10,7 +10,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : UpNDown                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 0.0                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Higher-Lower game with categories.
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Namli                              
 your_link                                 :                      
-your_city                                 :                                 
+your_city                                 : Frankfurt am Main                                
 email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
@@ -33,15 +33,15 @@ youtube_username                          :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+# features                                  :
 
-  - title                                 : Fun Little Game
-    description                           : The perfect game when you're bored or want to compare a lot of things to one another.
-    fontawesome_icon_name                 : magic
+#   - title                                 : Fun Little Game
+#     description                           : The perfect game when you're bored or want to compare a lot of things to one another.
+#     fontawesome_icon_name                 : magic
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+#   - title                                 : # New Feature Title
+#     description                           : # New Feature Description
+#     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
